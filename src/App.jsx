@@ -189,7 +189,7 @@ function Hero() {
               position: "relative",
             }}>
               <img
-                src="./public/images/our_photo.jpg"
+                src="/public/images/our_photo.jpg"
                 alt="Мы вместе"
                 style={{ width: "100%", height: "100%", objectFit: "cover" }}
               />
@@ -284,7 +284,7 @@ const aboutData = {
     color: colors.blush,
     facts: ["Самая красивая", "Самая милая", "Знает рецепт идеальных блинов", "Умеет хорошо рисовать"],
     loves: ["🎨 Рисование", "🐱 Котики", "🌿 Бравл старс", "📚 Книги"],
-    photo: "./public/images/dasha.jpg",
+    photo: "/public/images/dasha.jpg",
   },
 };
 
