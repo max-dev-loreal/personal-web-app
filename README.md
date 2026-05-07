@@ -1,16 +1,44 @@
-# React + Vite
+# 🌸 Наша История — Максим & Дашуля 🌸
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> С того самого январского вечера, когда всё изменилось... ✨
 
-Currently, two official plugins are available:
+Этот проект — уютное цифровое пространство, посвященное нашей любви, нашим котикам и всем тем моментам, которые делают нас счастливыми.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📱 Особенности сайта
+* **Счетчик любви:** Отсчитывает каждую секунду нашего счастья с 9 января 2026 года.
+* **Интерактивность:** Нажми в любом месте, и полетят сердечки! 💕
+* **Галерея хвостиков:** Наши любимые котики в стиле Polaroid.
+* **Таймлайн:** Хронология самых важных событий нашей истории.
+* **Плейлист:** Музыка, которая звучит в наших сердцах.
+* **Список желаний:** Наши общие мечты (некоторые уже сбылись!).
+* **Адаптивность:** Сайт идеально смотрится как на десктопе, так и на айфоне.
 
-## React Compiler
+## 🛠 Технологии
+Сайт построен на современном стеке:
+* **React (Vite)** — база проекта.
+* **Tailwind CSS** — для нежного и мягкого дизайна.
+* **Framer Motion** — для плавных и "живых" анимаций.
+* **Lucide React** — минималистичные иконки.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Как запустить проект
 
-## Expanding the ESLint configuration
+1.  **Установи зависимости:**
+    ```bash
+    npm install
+    ```
+2.  **Запусти режим разработчика:**
+    ```bash
+    npm run dev
+    ```
+3.  **Открой в браузере:**
+    Обычно это `http://localhost:5173`.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Как добавить новые фото
+Все фотографии лежат в папке `public/images/`. Чтобы обновить фото, просто замени файлы:
+* `main.jpg` — главное фото на главной.
+* `him.jpg` / `her.jpg` — наши портреты.
+* `cat1.jpg`, `cat2.jpg` — фото пушистых.
+
+---
+
+**Сделано с огромной любовью для Дашули 💖**
