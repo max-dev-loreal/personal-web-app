@@ -189,7 +189,7 @@ function Hero() {
               position: "relative",
             }}>
               <img
-                src="/public/images/our_photo.jpg"
+                src="/images/our_photo.jpg"
                 alt="Мы вместе"
                 style={{ width: "100%", height: "100%", objectFit: "cover" }}
               />
@@ -277,14 +277,14 @@ const aboutData = {
     color: colors.lavender,
     facts: ["Немношка красивый (она так сказала)", "Пишет код в 3 ночи (правда)", "Немношка умный (я сам так сказал)"],
     loves: ["🎵 Музыка", "🐱 Дашуля", "🌙 Писать код", "Когда код работает"],
-    photo: "/public/images/maksim.jpg",
+    photo: "/images/maksim.jpg",
   },
   her: {
     emoji: "🌸",
     color: colors.blush,
     facts: ["Самая красивая", "Самая милая", "Знает рецепт идеальных блинов", "Умеет хорошо рисовать"],
     loves: ["🎨 Рисование", "🐱 Котики", "🌿 Бравл старс", "📚 Книги"],
-    photo: "/public/images/dasha.jpg",
+    photo: "/images/dasha.jpg",
   },
 };
 
